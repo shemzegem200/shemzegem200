@@ -17,8 +17,6 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shemzegem200&hide_progress=true&theme=radical)
 
-[![Shyam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shemzegem200)](https://github.com/shemzegem200/github-readme-stats&theme=radical)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shyam-varadharajan/)
